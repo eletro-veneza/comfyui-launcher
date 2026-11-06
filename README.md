@@ -1,4 +1,4 @@
-# 🚀 ComfyUI Launcher por Eletrônica Veneza
+# 🚀 ComfyUI Launcher
 
 ![Uma imagem representativa do Launcher ComfyUI, mostrando as opções de CPU, GPU e execução.]
 
@@ -27,33 +27,15 @@ Para rodar o launcher, você precisará ter instalado:
 *   ✅ Python (versão compatível com o seu ComfyUI)
 *   ✅ ComfyUI instalado no seu sistema.
 
-> *(Instruções específicas de instalação do componente podem ser adicionadas aqui, se necessário, ex: "Copie o arquivo .exe/script para a pasta 'app' do ComfyUI.")*
+> *(Instruções específicas de instalação do componente podem ser adicionadas aqui, se necessário, ex: "Copie o arquivo .exe para a pasta 'app' do ComfyUI.")*
 
 ## ⚙️ Como Usar
 
-1.  **Inicia a Aplicação:** Execute o arquivo do launcher (ou utilize a opção de instalação que foi fornecida).
+1.  **Inicia a Aplicação:** Execute o arquivo do launcher.
 2.  **Selecione a Configuração:** Escolha a opção que corresponde à necessidade do seu script ou workflow (Ex: "Play GPU" se o seu projeto exigir aceleração de placa de vídeo).
 3.  **Execute:** Clique no botão apropriado para iniciar o ComfyUI no modo selecionado.
 4.  **Gerencie:** Utilize a interface para facilmente alternar entre os diferentes ambientes de execução (CPU, GPU, GUI normal, Backend, etc.).
 
 ## 📦 Tecnologias
 
-*   **Linguagem Principal:** Python
-*   **Interface:** [Mencione a biblioteca usada, ex: Electron para desktop, PyQt, etc.]
-*   **Desenvolvimento:** [Mencione a versão do Python ou outras ferramentas]
-
-## 📄 Licença
-
-Este projeto é compartilhado sob a licença [MIT](https://choosealicense.com/)) e é projetado para uso pessoal e comercial.
-
-## 🤝 Contribuições
-
-Se você tem ideias para novas funcionalidades, otimizações de código ou quer sugerir melhorias na interface, não hesite em abrir uma *Issue* ou fazer um *Pull Request*!
-
-Feliz trabalho e bons renders!
-
-**Desenvolvido por:** Eletrônica Veneza @2025
-**Link do Projeto:** [Seu Link do GitHub Aqui]
-**Contato:** [Seu Email ou Redes Sociais]
-
-*Criado com paixão por otimização e eficiência.*
+*   **Linguagem Principal:** RadBuilder
